@@ -13,3 +13,6 @@ TC Template
     [Arguments]    ${arg1}    ${arg2} 
     Log To Console    ${arg1}    
     Log To Console    ${arg2}
+    
+TC1
+    Log    hello
