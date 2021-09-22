@@ -19,7 +19,6 @@ Launch Browser
     Set Selenium Timeout    50s
     # Set Screenshot Directory    ${EXECDIR}${/}screenshots
     Go To    url=${URL}
-    set g
 
 End Browser 
     Capture Page Screenshot    
